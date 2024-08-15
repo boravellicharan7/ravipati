@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://t3.ftcdn.net/jpg/00/96/92/30/240_F_96923054_xIpJXwMGU5bJZ8v0tcp2PsQaarU2ZCeM.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.chari{
+    background-color: rgba(0, 0, 0, 0.521);
+    margin: 50px;
+    padding: 20px;
+}
+.chari img{
+    width: 60px;
+    margin-right: 600px;
+    padding: 20px;
+    display: inline;
+}
+#a{
+    color: aliceblue;
+}
+#b{
+    color: aliceblue;
+    margin-left: 20px;
+}
+.aa{
+    background-color:rgba(228, 189, 138, 0.521);
+    margin-left: 50px;
+    display: inline-block;
+    width: 500px;
+    border: 2px solid;
+    padding: 20px;
+}
+.gg{
+    background-color: cadetblue;
+    width: 500px;
+    display: inline-block;
+    margin: 70px;
+    border: 2px solid;
+    padding: 20px;
+}
